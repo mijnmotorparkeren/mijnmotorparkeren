@@ -11,10 +11,18 @@
     "permits": {
       "required": false
     },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "freeInPaidZones": true,
+      "notes": "De gemeente gedoogt het parkeren van motoren op het trottoir, op voorwaarde dat dit geen hinder oplevert en de doorgang voor voetgangers en rolstoelgebruikers gewaarborgd blijft. In zones voor betaald parkeren mag je bovendien gratis parkeren."
     }
   },
-  "lastUpdated": "2025-08-16",
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

@@ -7,9 +7,20 @@
     "lng": 6.307
   },
   "parkingRules": {
+    "permits": {
+      "required": false
+    },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "notes": "In deze gemeente is er geen sprake van een gedoogbeleid. Dat wil voor de gemeente Westerveld zeggen dat het parkeren op de stoep niet is toegestaan."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

@@ -10,9 +10,18 @@
     "permits": {
       "required": false
     },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "freeInPaidZones": false,
+      "notes": "In Rijswijk mag je je motor, brommer of scootmobiel op de stoep parkeren, zolang je niemand in de weg staat. Omdat gewone parkeerplekken schaars zijn, willen we die vrijhouden voor auto's. Je krijgt voor een motor daarom geen parkeervergunning en zet hem op de stoep of op eigen terrein."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

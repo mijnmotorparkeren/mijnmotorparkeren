@@ -11,8 +11,16 @@
       "required": false
     },
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "freeInPaidZones": false,
+      "notes": "Op de stoep mag je je motor neerzetten, zolang je niemand in de weg staat. In een betaald parkeervak moet je wél gewoon betalen voor een kaartje."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

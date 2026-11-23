@@ -7,9 +7,20 @@
     "lng": 4.9532
   },
   "parkingRules": {
+    "free": false,
+    "permits": {
+      "required": false
+    },
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "notes": "Er is in de gemeente Montfoort geen apart beleid opgesteld voor het parkeren van een motor op de stoep, zolang je maar geen gevaar of overlast veroorzaakt voor anderen. Er is momenteel geen betaald parkeren."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

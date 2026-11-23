@@ -11,9 +11,17 @@
     "permits": {
       "required": false
     },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "notes": "In deze gemeente is er geen sprake van een gedoogbeleid. Dat wil voor de gemeente Tytsjerksteradiel zeggen dat het parkeren op de stoep niet is toegestaan."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Medewerker Gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

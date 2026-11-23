@@ -8,15 +8,21 @@
     "lng": 6.035
   },
   "parkingRules": {
-    "paid": {
-      "enabled": false
-    },
     "permits": {
       "required": false
     },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "freeInPaidZones": false,
+      "notes": "Er is geen specifiek parkeerbeleid voor motoren in de gemeente Smallingerland, dat wil zeggen dat het formeel niet is toegestaan. Handhaving beoordeelt ter plekke of een motor hinderlijk geparkeerd staat en grijpt in als dat nodig is."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Medewerker Gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }

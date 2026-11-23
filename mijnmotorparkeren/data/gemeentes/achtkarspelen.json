@@ -2,13 +2,25 @@
   "id": "achtkarspelen",
   "name": "Gemeente Achtkarspelen",
   "province": "Friesland",
-  "parkingRules": {
-    "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
-    }
-  },
   "coordinates": {
     "lat": 53.221,
     "lng": 6.145
-  }
+  },
+  "parkingRules": {
+    "permits": {
+      "required": false
+    },
+    "free": false,
+    "motorcycleSpecific": {
+      "allowedOnSidewalk": true,
+      "notes": "De gemeente gedoogt het parkeren van motoren op het trottoir, op voorwaarde dat dit geen hinder oplevert en de doorgang voor voetgangers en rolstoelgebruikers gewaarborgd blijft. In de gemeente is momenteel geen betaald parkeren van toepassing."
+    }
+  },
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Contact met beleidsmedewerker van de gemeente",
+      "date": "2026-11-23"
+    }
+  ]
 }

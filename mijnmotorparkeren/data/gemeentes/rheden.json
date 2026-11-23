@@ -11,8 +11,10 @@
       "required": false
     },
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "notes": "De gemeente Rheden heeft geen afwijkend parkeerbeleid, motoren mogen formeel niet op de stoep worden geparkeerd. Er zijn geen betaald parkeerzones in de gemeente, maar wel blauwe zones. Hiervoor hoeft geen parkeerschijf gebruikt te worden."
     }
   },
+  "lastUpdated": "2026-11-23",
   "sources": []
 }

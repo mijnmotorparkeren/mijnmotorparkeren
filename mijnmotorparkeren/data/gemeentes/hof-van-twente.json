@@ -8,9 +8,21 @@
     "lng": 6.591
   },
   "parkingRules": {
+    "permits": {
+      "required": false
+    },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "notes": "In deze gemeente is er geen sprake van een gedoogbeleid. Dat wil zeggen dat het parkeren op de stoep niet is toegestaan. Er zijn geen geen gebieden met betaald parkeren."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }
+

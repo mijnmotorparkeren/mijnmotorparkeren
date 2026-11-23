@@ -14,10 +14,10 @@
     "motorcycleSpecific": {
       "allowedOnSidewalk": false,
       "freeInPaidZones": false,
-      "notes": "Motoren mogen binnen de gemeente Maastricht niet op de stoep worden geparkeerd. Voor het parkeren op parkeerplaatsen geldt het daarvoor geldende tarief."
+      "notes": "Motoren mogen binnen de gemeente niet op de stoep worden geparkeerd. Voor het parkeren op parkeerplaatsen geldt het daarvoor geldende tarief."
     }
   },
-  "lastUpdated": "2025-09-27",
+  "lastUpdated": "2026-11-23",
   "sources": [
     {
       "type": "official",

@@ -8,13 +8,10 @@
     "lng": 5.779
   },
   "parkingRules": {
-    "permits": {
-      "required": false
-    },
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "notes": "Wij hebben vanuit de gemeente nog geen gegevens over parkeerregels ontvangen."
     }
   },
-  "lastUpdated": "2025-08-16",
+  "lastUpdated": "2026-11-23",
   "sources": []
 }

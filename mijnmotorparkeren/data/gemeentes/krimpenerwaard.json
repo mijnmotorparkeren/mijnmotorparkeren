@@ -8,12 +8,21 @@
     "lng": 4.755
   },
   "parkingRules": {
+    "free": false,
     "permits": {
       "required": false
     },
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "notes": "Als een motor zó geparkeerd staat dat voetgangers geen gevaar lopen en geen hinder ondervinden, ziet de gemeente geen directe reden om te handhaven. Het uitgangspunt blijft dus: gebruik jouw gezonde verstand en zorg dat voetgangers, rolstoelgebruikers, mensen met een rollator en anderen niet belemmert. Er is momenteel geen betaald parkeren."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-23",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-23"
+    }
+  ]
 }
+
