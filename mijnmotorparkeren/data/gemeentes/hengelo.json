@@ -8,8 +8,17 @@
   },
   "parkingRules": {
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": true,
+      "freeInPaidZones": false,
+      "notes": "Parkeren op de stoep wordt gedoogd, mits dit geen hinder oplevert en je voldoende ruimte overlaat voor rolstoelgebruikers en voetgangers. In de betaald parkeerzones is parkeren voor motoren niet gratis, gebruik hiervoor een mobiele parkeerapp."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-25",
+  "sources": [
+    {
+      "type": "official",
+      "name": "Telefonisch contact gemeente",
+      "date": "2026-11-25"
+    }
+  ]
 }
