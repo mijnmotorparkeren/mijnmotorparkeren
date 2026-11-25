@@ -10,9 +10,18 @@
     "permits": {
       "required": false
     },
+    "free": false,
     "motorcycleSpecific": {
-      "notes": "Er zijn geen gegevens over parkeerregels beschikbaar voor deze gemeente."
+      "allowedOnSidewalk": false,
+      "freeInPaidZones": false,
+      "notes": "In de Algemene Plaatselijke Verordening (APV) van deze gemeente is geen gedoogbeleid opgenomen. Parkeren op de stoep is daarom niet toegestaan. Motorrijders dienen gebruik te maken van de reguliere parkeervakken en in betaald parkeergebieden een parkeerkaart te kopen."
     }
   },
-  "sources": []
+  "lastUpdated": "2026-11-25",
+  "sources": [
+    {
+      "name": "Telefonisch contact met gemeentehuis",
+      "date": "2026-11-25"
+    }
+  ]
 }
